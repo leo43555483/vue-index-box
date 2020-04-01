@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IndexAnchor.vue custom anchor 1`] = `
+<div>
+  <div class="ve-index__wrapper">
+    <ul class="ve-index__list">
+      <li class="ve-index__tip" style="display: none;"></li>
+      <li data-index="A" class="ve-index__item">A</li>
+      <li data-index="B" class="ve-index__item">B</li>
+      <li data-index="C" class="ve-index__item">C</li>
+      <li data-index="D" class="ve-index__item">D</li>
+      <li data-index="E" class="ve-index__item">E</li>
+      <li data-index="F" class="ve-index__item">F</li>
+      <li data-index="G" class="ve-index__item">G</li>
+      <li data-index="H" class="ve-index__item">H</li>
+      <li data-index="I" class="ve-index__item">I</li>
+      <li data-index="J" class="ve-index__item">J</li>
+      <li data-index="K" class="ve-index__item">K</li>
+      <li data-index="L" class="ve-index__item">L</li>
+      <li data-index="M" class="ve-index__item">M</li>
+      <li data-index="N" class="ve-index__item">N</li>
+      <li data-index="O" class="ve-index__item">O</li>
+      <li data-index="P" class="ve-index__item">P</li>
+      <li data-index="Q" class="ve-index__item">Q</li>
+      <li data-index="R" class="ve-index__item">R</li>
+      <li data-index="S" class="ve-index__item">S</li>
+      <li data-index="T" class="ve-index__item">T</li>
+      <li data-index="U" class="ve-index__item">U</li>
+      <li data-index="V" class="ve-index__item">V</li>
+      <li data-index="W" class="ve-index__item">W</li>
+      <li data-index="X" class="ve-index__item">X</li>
+      <li data-index="Y" class="ve-index__item">Y</li>
+      <li data-index="Z" class="ve-index__item">Z</li>
+    </ul>
+    <div class="ve-index__anchor">
+      <div class="ve-index__anchor--inner">A</div>
+    </div>
+    <div class="ve-index__anchor">
+      <div class="ve-index__anchor--inner">B</div>
+    </div>
+    <div class="ve-index__anchor">
+      <div class="ve-index__anchor--inner">C</div>
+    </div>
+  </div>
+</div>
+`;
