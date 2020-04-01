@@ -9,10 +9,10 @@ npm install --save vue-index-box
 
 ### Basic Usage
 ```js
-import { SliderAction } from 'vue-index-box';
+import { IndexBox, IndexAnchor } from 'vue-index-box';
 //or    
-import SliderAction from 'vue-index-box';
-Vue.use(SliderAction);
+import indexBox from 'vue-index-box';
+Vue.use(indexBox);
 ```
 
 ### IndexBox
