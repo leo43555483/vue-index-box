@@ -23,7 +23,7 @@
 </template>
 
 <script>
-import {IndexBox, IndexAnchor } from '../../src';
+import { IndexBox, IndexAnchor } from '../../src';
 import { SliderAction } from 'vue-slider-actions';
 export default {
   name: 'App',

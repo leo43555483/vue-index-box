@@ -1,10 +1,14 @@
 {
-  "name": "main",
-  "version": "0.1.0",
-  "private": true,
+  "name": "vue-index-box",
+  "version": "1.0.0",
+  "private": false,
+  "description": "vue index list",
+  "main": "dist/vue-index-box.common.js",
+  "author": "zhl <664995185@qq.com>",
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build --target lib --name box src/index.js",
+    "build": "vue-cli-service build --target lib --name vue-index-box src/index.js",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint"
   },
@@ -12,6 +16,15 @@
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
   },
+  "keywords": [
+		"vuejs",
+		"index-list",
+		"vue"
+  ],
+  "engines": {
+		"node": ">= 8.11.4",
+		"npm": ">= 5.6.0"
+	},
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
     "@vue/cli-plugin-eslint": "~4.2.0",
@@ -56,5 +69,10 @@
   ],
   "jest": {
     "preset": "@vue/cli-plugin-unit-jest"
-  }
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/leo43555483/vue-index-box"
+  },
+  "homepage": "https://github.com/leo43555483/vue-index-box#readme"
 }
